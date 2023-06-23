@@ -22,4 +22,17 @@ def lp():
 
 #Operaciones
 
+def vc(cod):
+    pass
 
+def guardar(cod,ti,au,pre):
+    pass
+
+def bu(cod):
+    pass
+
+def c_criticas(cod):
+    pass
+
+def c_detalles(cod):
+    pass

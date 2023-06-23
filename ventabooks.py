@@ -4,9 +4,9 @@ while True:
     fu.lp()
     fu.pv("SISTEMA VENTABOOKS")
     fu.pv("-------------------")
-    print("1) Guardar")
-    print("2) Buscar")
-    print("3) Certificados")
+    print("1) Guardar libro")
+    print("2) Buscar libro")
+    print("3) Certificados de libros")
     print("0) Salir")
 
     opcion = int(input("Seleccione: "))
@@ -22,6 +22,6 @@ while True:
 
     elif opcion==1:
         fu.pv("CERTIFICADOS")
-        
+
     else:
         fu.pr("NO VALIDO")
